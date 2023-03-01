@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BTTC2/static/css/main.9789900c.css",
+    "main.js": "/BTTC2/static/js/main.039158c1.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/BTTC2/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/Video.mp4": "/BTTC2/static/media/Video.d630e0c68f8dd4a51fd7.mp4",
+    "index.html": "/BTTC2/index.html",
+    "main.9789900c.css.map": "/BTTC2/static/css/main.9789900c.css.map",
+    "main.039158c1.js.map": "/BTTC2/static/js/main.039158c1.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/BTTC2/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9789900c.css",
+    "static/js/main.039158c1.js"
+  ]
+}

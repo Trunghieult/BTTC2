@@ -60,11 +60,11 @@ function App() {
           <Header showReversePage={handleShowReserve}></Header>
           <Routes>
             {/* <Main></Main> */}
-            <Route path="/BTTC/" element={<Main />} />
-            <Route path="/BTTC/Menu" element={<Menupage />} />
-            <Route path="/BTTC/Promotion" element={<ProPage />} />
-            <Route path="/BTTC/AboutUs" element={<AboutUs />} />
-            <Route path="/BTTC*" element={<Main />} />
+            <Route path="/BTTC2/" element={<Main />} />
+            <Route path="/BTTC2/Menu" element={<Menupage />} />
+            <Route path="/BTTC2/Promotion" element={<ProPage />} />
+            <Route path="/BTTC2/AboutUs" element={<AboutUs />} />
+            <Route path="/BTTC2/*" element={<Main />} />
 
             {/* <Menupage></Menupage> */}
             {/* <ProPage /> */}

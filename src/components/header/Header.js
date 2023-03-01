@@ -18,13 +18,13 @@ const Header = (props) => {
   return (
     <>
       <div className={`header ${ScrollEvent(0) ? "bg-show" : ""}`}>
-        <Link to="/BTTC/" className="header-left">
+        <Link to="/BTTC2/" className="header-left">
           Sona
         </Link>
         <div className="header-right">
-          <Link to="/BTTC/Menu">Menu</Link>
-          <Link to="/BTTC/Promotion">Promo</Link>
-          <Link to="/BTTC/AboutUs">About Us</Link>
+          <Link to="/BTTC2/Menu">Menu</Link>
+          <Link to="/BTTC2/Promotion">Promo</Link>
+          <Link to="/BTTC2/AboutUs">About Us</Link>
           <div onClick={showReversePage}>Reservation</div>
         </div>
         <i class="fa-solid fa-bars" onClick={() => setCheckRes(!checkRes)}></i>
